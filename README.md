@@ -1,4 +1,4 @@
-<h1>My React.js :chemical: Documentation</h1>
+<h1>My React.js 🚀 Documentation</h1>
 <u></u>
 <u></u>
 <u>
